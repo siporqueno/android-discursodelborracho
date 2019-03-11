@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Discurso del sabio borracho</string>
+    <string name="greeting"> ¡Hola! ¿Que tal?</string>
+    <string name="speech">Discurso del sabio borracho después del Año Nuevo Viejo
+        \n\nAntes de nada, %s
+        \n\nAdemás, %s
+        \n\nPara concluir, %s
+    </string>
+</resources>
